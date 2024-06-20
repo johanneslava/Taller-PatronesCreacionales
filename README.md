@@ -1,2 +1,2 @@
 # Diagrama solucion pizza factory
-![image]()
+![image](https://github.com/johanneslava/Taller-PatronesCreacionales/blob/master/pizza%20factory.drawio.png)
